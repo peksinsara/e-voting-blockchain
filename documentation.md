@@ -49,5 +49,3 @@ The console output is enhanced with color using the `github.com/fatih/color` pac
 
 This is a simplified example for educational purposes. In a real-world scenario, additional security measures and a more sophisticated consensus algorithm would be necessary.
 
-Feel free to modify and expand this code to meet specific requirements.
-
